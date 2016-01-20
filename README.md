@@ -9,4 +9,4 @@ A blogpost outlining the aim behind the [Follow Me Social Sliding Widget Plugin]
 
 Installation
 ----------------------------------------------
-To use this plugin in WordPress, upload the content of this repository to /wp-content/plugins/follow-me-sliding-widget-plugin/. 
+To use this plugin in WordPress, upload the content of this repository to your /wp-content/plugins/ directory. 
