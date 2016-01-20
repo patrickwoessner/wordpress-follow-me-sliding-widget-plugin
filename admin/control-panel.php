@@ -112,7 +112,7 @@ function pw_lightweight_social_media_slider_plugin_settings_page() {
         	<td><input type="text" name="smsb-position-visible-after" value="<?php echo esc_attr( get_option('smsb-position-visible-after', '1000') ); ?>" /></td>
         </tr>
         <tr valign="top">
-        	<th scope="row">Distance to Bottom in Px</th>
+        	<th scope="row">Distance to Right in Px</th>
         	<td><input type="text" name="smsb-position-distance" value="<?php echo esc_attr( get_option('smsb-position-distance', '20') ); ?>" /></td>
         </tr>
     
